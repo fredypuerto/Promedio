@@ -1,0 +1,4 @@
+Uncaught java.lang.Error exception in thread "main" in a method promedio.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+
+	at promedio.main(promedio.java:6) [file:/home/alumno/Promedio/bin/promedio.class]
